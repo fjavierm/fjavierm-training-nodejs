@@ -1,0 +1,1 @@
+In this lesson the tasks are mainly related with node prompt.

@@ -1,0 +1,1 @@
+This lesson is mainly theorical with a few examples to execute in the node console.
